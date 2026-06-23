@@ -1,4 +1,5 @@
-## 一键命令 docker run -d -p 6001:6001 --name migu2026 qqt8520/migu2026:1.0
+## 一键命令 
+docker run -d -p 6001:6001 --name migu2026 qqt8520/migu2026:1.0
 
 或者是：
 
